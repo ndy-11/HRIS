@@ -116,6 +116,33 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
+## 🖥️ Frontend
+
+Looking for a beautiful interface?  
+Check out our companion frontend project:
+
+- **Repository:** [hris-frontend](https://github.com/ndy-11/hris-frontend)
+- **Tech Stack:** React, Redux, Tailwind CSS
+- **Features:**  
+  - Modern, responsive UI  
+  - Employee and role management  
+  - Secure authentication with JWT  
+  - Seamless integration with this backend
+
+To get started with the frontend:
+
+```bash
+git clone https://github.com/ndy-11/hris-frontend.git
+cd hris-frontend
+npm install
+npm start
+```
+
+The frontend is designed to work out-of-the-box with this backend.  
+Configure the API base URL in the frontend's `.env` file to point to your backend server.
+
+---
+
 <p align="center">
   <b>Made with ❤️ for HR teams who value efficiency and security.</b><br>
   <sub>Empower your HR processes with technology.</sub>
