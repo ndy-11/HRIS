@@ -52,7 +52,7 @@ hris-root/
 
 **Clone & Install**
 ```bash
-git clone https://github.com/ndy-11/hris-backend.git
+git clone https://github.com/your-org/hris-backend.git
 cd hris-backend
 npm install
 ```
@@ -118,28 +118,39 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🖥️ Frontend
 
-Looking for a beautiful interface?  
-Check out our companion frontend project:
+<p align="center">
+  <img src="https://placehold.co/400x120?text=HRIS+Frontend" alt="HRIS Frontend Banner" width="60%" />
+</p>
 
-- **Repository:** [hris-frontend](https://github.com/ndy-11/hris-frontend)
-- **Tech Stack:** React, Redux, Tailwind CSS
-- **Features:**  
-  - Modern, responsive UI  
-  - Employee and role management  
-  - Secure authentication with JWT  
-  - Seamless integration with this backend
+Looking for a beautiful and intuitive user interface?  
+**Meet our HRIS Frontend!** Designed to empower HR teams with a seamless experience.
 
-To get started with the frontend:
+### 🚩 Highlights
+
+- 🎨 **Modern & Responsive:** Built with React, Redux, and Tailwind CSS for a stunning look on any device.
+- 🔗 **Real-Time Integration:** Connects instantly to this backend for live employee and role management.
+- 🔒 **Secure:** Full JWT authentication support for safe access.
+- 🧩 **Customizable:** Easily adapt the UI to your company's branding and workflow.
+
+### 🌐 Get Started in Seconds
 
 ```bash
-git clone https://github.com/ndy-11/hris-frontend.git
+git clone https://github.com/your-org/hris-frontend.git
 cd hris-frontend
 npm install
 npm start
 ```
 
-The frontend is designed to work out-of-the-box with this backend.  
-Configure the API base URL in the frontend's `.env` file to point to your backend server.
+> **Tip:** Set your backend API URL in the frontend's `.env` file for instant connectivity.
+
+### 📸 Sneak Peek
+
+<p align="center">
+  <img src="https://placehold.co/600x300?text=HRIS+Frontend+Screenshot" alt="HRIS Frontend Screenshot" width="80%" />
+</p>
+
+Explore the full power of HRIS with our frontend:  
+👉 [hris-frontend on GitHub](https://github.com/your-org/hris-frontend)
 
 ---
 
