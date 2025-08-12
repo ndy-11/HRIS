@@ -5,10 +5,13 @@
 <h1 align="center">🚀 HRIS Backend</h1>
 
 <p align="center">
-  <b>Modern, Secure, and Lightning-Fast HRIS API</b><br>
+  <b>Modern, Secure, and Lightning-Fast HRIS Platform</b><br>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-18.x-green?logo=node.js">
   <img alt="Express" src="https://img.shields.io/badge/Express.js-4.x-blue?logo=express">
   <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-6.x-2f406a?logo=sequelize">
+  <img alt="React" src="https://img.shields.io/badge/React-18.x-61dafb?logo=react">
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-4.x-764abc?logo=redux">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-3.x-38bdf8?logo=tailwindcss">
   <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg">
 </p>
 
@@ -52,7 +55,7 @@ hris-root/
 
 **Clone & Install**
 ```bash
-git clone https://github.com/your-org/hris-backend.git
+git clone https://github.com/ndy-11/hris-backend.git
 cd hris-backend
 npm install
 ```
@@ -135,7 +138,7 @@ Looking for a beautiful and intuitive user interface?
 ### 🌐 Get Started in Seconds
 
 ```bash
-git clone https://github.com/your-org/hris-frontend.git
+git clone https://github.com/ndy-11/hris-frontend.git
 cd hris-frontend
 npm install
 npm start
@@ -150,7 +153,7 @@ npm start
 </p>
 
 Explore the full power of HRIS with our frontend:  
-👉 [hris-frontend on GitHub](https://github.com/your-org/hris-frontend)
+👉 [hris-frontend on GitHub](https://github.com/ndy-11/hris-frontend)
 
 ---
 
