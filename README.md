@@ -52,7 +52,7 @@ hris-root/
 
 **Clone & Install**
 ```bash
-git clone https://github.com/your-org/hris-backend.git
+git clone https://github.com/ndy-11/hris-backend.git
 cd hris-backend
 npm install
 ```
